@@ -7,3 +7,4 @@ Set-up
 3. Commit and push your repo back up to github.
 4. Paste the link to this repo in slack.
 5. Make sure to answer all the questions in the javascript file to get full credit.
+
